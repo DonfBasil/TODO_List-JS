@@ -1,0 +1,6 @@
+Criar um app para web utilizando HTML, CSS e JS.
+O APP consiste em uma lista TODO onde você adiciona
+tarefas a uma lista.
+Essas tarefas devem ser manuzeadas de forma que possam ser
+classificadas como concluidas e podem também ser apagadas.
+O APP deve armasenar a lista para que toda vez que eu voltar ao APP, minha lista ainda esteja lá.
